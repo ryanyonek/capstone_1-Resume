@@ -1,2 +1,4 @@
 # capstone_1-Resume
-Capstone 1 Project: Resume as a Webpage
+Ryan Yonek's Resume as a Static Webpage:
+
+https://ryanyonek.github.io/capstone_1-Resume/
